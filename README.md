@@ -15,6 +15,7 @@ This repository contains the code for facial recognition using a [Siamese networ
 - Matplotlib
 - Tensorflow
 - Keras
+- Kivy
   
 
 
